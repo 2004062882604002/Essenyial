@@ -6,11 +6,11 @@ using namespace std;
 int main()
 {
     string user_name;
-    cout<<"è¯·è¾“å…¥ä½ çš„å§“åï¼š"<<endl;
+    cout<<"ÇëÊäÈëÄãµÄĞÕÃû£º"<<endl;
     cin>>user_name;
     if(user_name.size()>2)
     {
-        cout<<"è¾“å…¥ç¬¦åˆè¦æ±‚ï¼"<<endl;
+        cout<<"ÊäÈë·ûºÏÒªÇó£¡"<<endl;
     }
     else
     {
